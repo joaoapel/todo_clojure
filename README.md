@@ -1,10 +1,10 @@
 # todo_list
 
-A Clojure library designed to ... well, that part is up to you.
+Aplicativo TODO feito com Clojure
 
 ## Usage
 
-FIXME
+Descubra
 
 ## License
 
